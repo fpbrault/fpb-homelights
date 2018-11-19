@@ -13,5 +13,6 @@
     "eslint.enable": false,
     "files.associations": {
         "*.js": "javascriptreact"
-    }
+    },
+    "jshint.enable": false,
 }
