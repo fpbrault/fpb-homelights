@@ -1,0 +1,17 @@
+{
+    "favorites.sortDirection": "ASC",
+    "favorites.groupsFirst": true,
+    "terminal.integrated.env.osx": {
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+    },
+    "terminal.integrated.env.linux": {
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+    },
+    "terminal.integrated.env.windows": {
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+    },
+    "eslint.enable": false,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
